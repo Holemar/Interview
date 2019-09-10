@@ -1,12 +1,3 @@
-<p align="center">
-    <a href="https://www.apachecn.org">
-        <img width="200" src="http://data.apachecn.org/img/logo.jpg">
-    </a>
-    <br >
-    <a href="https://www.apachecn.org/"><img src="https://img.shields.io/badge/%3E-HOME-green.svg"></a>
-    <a href="http://home.apachecn.org/about/"><img src="https://img.shields.io/badge/%3E-ABOUT-green.svg"></a>
-    <a href="mailto:apache@163.com"><img src="https://img.shields.io/badge/%3E-Email-green.svg"></a>
-</p>
 
 <h1 align="center">Interview</h1>
 
@@ -36,26 +27,26 @@
 
 *  [【大数据面经】](https://github.com/WadeStack/BigDataIE)
 
-## [算法刷题](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
+## [算法刷题](./docs/Algorithm)
 
-1. [Leetcode](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode)
-    - [Python](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/Python)
-    - [Java](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/Java)
-    - [JavaScript](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/JavaScript)
-    - [C++](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/C++)
-    - [ipynb](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/ipynb)
+1. [Leetcode](./docs/Algorithm/Leetcode)
+    - [Python](./docs/Algorithm/Leetcode/Python)
+    - [Java](./docs/Algorithm/Leetcode/Java)
+    - [JavaScript](./docs/Algorithm/Leetcode/JavaScript)
+    - [C++](./docs/Algorithm/Leetcode/C++)
+    - [ipynb](./docs/Algorithm/Leetcode/ipynb)
     - [GO](https://github.com/aQuaYi/LeetCode-in-Go)
-2. [剑指 Offer](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/剑指offer)
-    - [Python](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/剑指offer/Python)
-    - [Scala](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/剑指offer/Scala)
-    - [Java](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/剑指offer/Java)
-    - [JavaScript](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/剑指offer/JavaScript)
-    - [C++](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/剑指offer/C++)
-2. [Algorithm Implementation](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/DataStructure)
-    - [Python](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/DataStructure/Python)
-    - [Java](https://github.com/apachecn/Interview/tree/master/docs/DataStructure/Java)
-    - [JavaScript](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/DataStructure/JavaScript)
-    - [C++](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/DataStructure/C++)
+2. [剑指 Offer](./docs/Algorithm/剑指offer)
+    - [Python](./docs/Algorithm/剑指offer/Python)
+    - [Scala](./docs/Algorithm/剑指offer/Scala)
+    - [Java](./docs/Algorithm/剑指offer/Java)
+    - [JavaScript](./docs/Algorithm/剑指offer/JavaScript)
+    - [C++](./docs/Algorithm/剑指offer/C++)
+2. [Algorithm Implementation](./docs/Algorithm/DataStructure)
+    - [Python](./docs/Algorithm/DataStructure/Python)
+    - [Java](./docs/DataStructure/Java)
+    - [JavaScript](./docs/Algorithm/DataStructure/JavaScript)
+    - [C++](./docs/Algorithm/DataStructure/C++)
 
 > 非组织链接推荐：
 
@@ -85,7 +76,7 @@
 
 > 项目实战:
 
-* [【Kaggle项目文档和项目代码: 点击查看全部】](https://github.com/apachecn/Interview/tree/master/docs/Kaggle)
+* [【Kaggle项目文档和项目代码: 点击查看全部】](./docs/Kaggle)
 
 ## 资料来源:
 
